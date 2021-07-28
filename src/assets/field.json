@@ -1,0 +1,19 @@
+{
+    "obstacles":[
+    {
+        "obstacle_type" : "rectangle",
+        "x" : "",
+        "y" : "",
+        "width" : "",
+        "height" : "",
+        "rotation" : ""
+    },
+    {
+        "obstacle_type" : "circle",
+        "x" : "",
+        "y" : "",
+        "radius" : ""
+    }
+    ],
+    "field_image" : "dkslj fkl;dsjf kldsjfklsdhf kjldsnjkdsjflkdsja;lkfj ewkl;afhasd"
+}

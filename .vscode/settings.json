@@ -3,6 +3,11 @@
         "**/__pycache__": true
     },
     "files.exclude": {
-        "**/__pycache__": true
-    }
+        "**/__pycache__": true,
+        "**/.vscode": true
+    },
+    "python.analysis.extraPaths": [
+        "./src/drive",
+        "./src/drive"
+    ]
 }

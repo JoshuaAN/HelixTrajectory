@@ -1,0 +1,24 @@
+{
+    "obstacles" : [
+        {
+            "type" : "circle",
+            "x" : 5,
+            "y" : 2,
+            "radius" : 3
+        },
+        {
+            "type" : "rectangle",
+            "x" : 5,
+            "y" : 3,
+            "theta" : 5,
+            "length" : 5,
+            "width" : 2
+        },
+        {
+            "type" : "circle",
+            "x" : 5,
+            "y" : 2,
+            "radius" : 3
+        }
+    ]
+}

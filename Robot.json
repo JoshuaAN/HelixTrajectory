@@ -1,0 +1,10 @@
+{
+    "type" : "skid steer",
+    "length" : 3.1,
+    "width" : 3,
+    "wheelbase" : 2.435,
+    "dynamics" : {
+        "ka" : 5,
+        "kv" : 2
+    }
+}
